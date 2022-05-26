@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 Nice to meet you!
 
-<!--
-**ChrisKimZHT/ChrisKimZHT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 I'm Haotian Zou, you can call me ChrisKim.
 
-Here are some ideas to get you started:
+I am a Master's student in Software Engineering at Chongqing University, specializing in large language models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 You can contact me by the information below:
+
+- 📧 chriskim@foxmail.com
+- 📺 https://space.bilibili.com/23986264
+- ☎️ $\text{(+86) 13???????82} \times 998244353\bmod (10^9+7)=9542577$
+- 🐧 $\text{15??????48} \times 998244353\bmod (10^9+7)=17337518$
+
+In addition, you can also visit my websites and leave your comments. Here is some of my websites:
+
+[🏠Homepage](https://www.chriskim.cn) / [🌏Blog](https://www.zouht.com/) / [📔Notes](https://io.zouht.com/)
+
+<img src="https://github-readme-stats.mikuu.fans/?username=ChrisKimZHT&show_icons=true&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.mikuu.fans/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
