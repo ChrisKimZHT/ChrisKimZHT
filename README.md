@@ -39,3 +39,5 @@ Here is some of my websites:
  - [Haotian Homepage](https://www.chriskim.cn)
  - [Haotian Blog](https://www.zouht.com/)
  - [Haotian Notes](https://io.zouht.com/)
+
+![Genshin Card](https://genshin-card.getloli.com/detail/33/288018508.png)
