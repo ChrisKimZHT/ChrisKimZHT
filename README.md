@@ -4,7 +4,7 @@
 
 > 🎈 An 19 y.o. student who is passionate about programming, technologies, video games, etc.
 
-- Wuhan / China / 19 y.o. / Freshman / WHUT
+- Wuhan / China / 19 y.o. / Sophomore / WHUT
 - Chinese / ~~English / C / C++ / Python / HTML~~
 - Studying Algorithm / Preparing for ACM (Maybe)
 - Student / Coder / Blogger / Gamer
