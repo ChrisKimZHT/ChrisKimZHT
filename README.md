@@ -40,4 +40,4 @@ Here is some of my websites:
  - [Haotian Blog](https://www.zouht.com/)
  - [Haotian Notes](https://io.zouht.com/)
 
-![Genshin Card](https://genshin-card.getloli.com/detail/33/288018508.png)
+![Genshin Card](https://s1.chriskim.cn/genshin/33/288018508.png)
