@@ -11,7 +11,7 @@
 - Video Games Lover (esp. Genshin Impact)
 - Guitar / Music / Badminton
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisKimZHT&show_icons=true)
+![GitHub Stats](https://s1.chriskim.cn/ghstats/api?username=ChrisKimZHT&show_icons=true)
 
 ## 🌏 Languages
 
@@ -25,7 +25,7 @@ But at other times, I prefer to create my program by Python because of its easy 
 
 I'm also trying to study frontend technics in order to create my own web pages.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ChrisKimZHT&layout=compact)
+![Top Langs](https://s1.chriskim.cn/ghstats/api/top-langs?username=ChrisKimZHT&layout=compact)
 
 ## 📫 Get in Touch
 
