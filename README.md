@@ -11,7 +11,7 @@
 - Video Games Lover (esp. Genshin Impact)
 - Guitar / Music / Badminton
 
-![GitHub Stats](https://s1.chriskim.cn/ghstats/api?username=ChrisKimZHT&show_icons=true)
+![GitHub Stats](https://s1.chriskim.top/ghstats/api?username=ChrisKimZHT&show_icons=true)
 
 ## 🌏 Languages
 
@@ -25,7 +25,7 @@ But at other times, I prefer to create my program by Python because of its easy 
 
 I'm also trying to study frontend technics in order to create my own web pages.
 
-![Top Langs](https://s1.chriskim.cn/ghstats/api/top-langs?username=ChrisKimZHT&layout=compact)
+![Top Langs](https://s1.chriskim.top/ghstats/api/top-langs?username=ChrisKimZHT&layout=compact)
 
 ## 📫 Get in Touch
 
@@ -40,4 +40,4 @@ Here is some of my websites:
  - [Haotian Blog](https://www.zouht.com/)
  - [Haotian Notes](https://io.zouht.com/)
 
-![Genshin Card](https://s1.chriskim.cn/genshin/33/288018508.png)
+![Genshin Card](https://s1.chriskim.top/genshin/33/288018508.png)
