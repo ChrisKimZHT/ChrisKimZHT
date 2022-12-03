@@ -4,28 +4,15 @@
 
 > 🎈 An 19 y.o. student who is passionate about programming, technologies, video games, etc.
 
-- Wuhan / China / 19 y.o. / Sophomore / WHUT
-- Chinese / ~~English / C / C++ / Python / HTML~~
-- Studying Algorithm / Preparing for ACM (Maybe)
-- Student / Coder / Blogger / Gamer
-- Video Games Lover (esp. Genshin Impact)
-- Guitar / Music / Badminton
+I'm a student major in Artificial Intelligence in Wuhan University of Technology.
+
+I like programming beacause create interesting or useful things give me the sense of fulfillment.
 
 ![GitHub Stats](https://s1.chriskim.top/ghstats/api?username=ChrisKimZHT&show_icons=true)
 
 ## 🌏 Languages
 
-| Mastered                                                     | Studying                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![Chinese](https://img.shields.io/badge/-Chinese-ff0000?style=flat-square) | ![English](https://img.shields.io/badge/-English-239dff?style=flat-square) ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff) ![C++](https://img.shields.io/badge/-C%2b%2b-00599c?style=flat-square&logo=C%2b%2b&logoColor=fff) ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=fff) ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=CSS3&labelColor=1572b6) ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=PHP&logoColor=fff) |
-
-Usually, I use C++ to solve the algorithm problems.
-
-But at other times, I prefer to create my program by Python because of its easy but powerful packages.
-
-I'm also trying to study frontend technics in order to create my own web pages.
-
-![Top Langs](https://s1.chriskim.top/ghstats/api/top-langs?username=ChrisKimZHT&layout=compact)
+![Top Langs](https://s1.chriskim.top/ghstats/api/top-langs?username=ChrisKimZHT&layout=compact&langs_count=6)
 
 ## 📫 Get in Touch
 
