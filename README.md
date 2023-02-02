@@ -6,25 +6,26 @@
 
 I'm a student major in Artificial Intelligence in Wuhan University of Technology.
 
-I like programming beacause create interesting or useful things give me the sense of fulfillment.
+I love programming beacause control computers to solve problems by writing code is so fascinating to me.
 
-![GitHub Stats](https://s1.chriskim.top/ghstats/api?username=ChrisKimZHT&show_icons=true)
+## 📈 GitHub Stats
 
-## 🌏 Languages
+<img src="https://s1.chriskim.top/ghstats/api?username=ChrisKimZHT&show_icons=true" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://s1.chriskim.top/ghstats/api/top-langs?username=ChrisKimZHT&layout=compact&langs_count=6" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
 
-![Top Langs](https://s1.chriskim.top/ghstats/api/top-langs?username=ChrisKimZHT&layout=compact&langs_count=6)
+## ✍ Know How to Spell
 
-## 📫 Get in Touch
+<img src="https://s1.chriskim.top/icons/icons?i=azure,blender,bootstrap,c,cpp,css,docker,electron,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,mysql,nginx,nodejs,ps,php,postman,powershell,pr,py,react,redux,sass,stackoverflow,twitter,unity,vim,visualstudio,vscode,vue,wordpress&&perline=10" />
 
-[![E-Mail](https://img.shields.io/badge/-chriskim@foxmail.com-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:chriskim@foxmail.com)
-[![BiliBili](https://img.shields.io/badge/-ChrisKim_ZHT-00a1d6?style=flat-square&logo=bilibili&logoColor=fff)](https://space.bilibili.com/23986264)
+## ✉ Get in Touch
 
-You can get in touch with me by the contact information above. In addition, you can also visit my websites and leave your comments.
+[E-Mail](mailto:chriskim@foxmail.com) / [BiliBili](https://space.bilibili.com/23986264)
+
+You can contact me by the information above. In addition, you can also visit my websites and leave your comments.
 
 Here is some of my websites:
 
- - [Haotian Homepage](https://www.chriskim.cn)
- - [Haotian Blog](https://www.zouht.com/)
- - [Haotian Notes](https://io.zouht.com/)
+[Homepage](https://www.chriskim.cn) / [Blog](https://www.zouht.com/) / [Notes](https://io.zouht.com/)
+
+You can also get in touch with me in Genshin Impact!
 
 ![Genshin Card](https://s1.chriskim.top/genshin/33/288018508.png)
