@@ -29,3 +29,8 @@ Here is some of my websites:
 You can also get in touch with me in Genshin Impact!
 
 ![Genshin Card](https://s1.chriskim.top/genshin/33/288018508.png)
+
+## 🔑 Public Keys
+
+- SSH keys: https://github.com/ChrisKimZHT.keys
+- GPG keys: https://github.com/ChrisKimZHT.gpg
