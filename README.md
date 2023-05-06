@@ -10,11 +10,11 @@ I love programming beacause control computers to solve problems by writing code 
 
 ## 📈 GitHub Stats
 
-<img src="https://s2.chriskim.top/ghstats/api?username=ChrisKimZHT&show_icons=true" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://s2.chriskim.top/ghstats/api/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
+<img src="https://www.nahida.cc/github/api?username=ChrisKimZHT&show_icons=true" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://www.nahida.cc/github/api/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
 
 ## ✍ Know How to Spell
 
-<img src="https://s2.chriskim.top/icons/icons?i=azure,blender,bootstrap,c,cpp,css,docker,electron,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,mysql,nginx,nodejs,ps,php,postman,powershell,pr,py,react,redux,sass,stackoverflow,twitter,unity,vim,visualstudio,vscode,vue,wordpress&perline=10" />
+<img src="https://www.nahida.cc/icons/icons?i=azure,blender,bootstrap,c,cpp,css,docker,electron,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,mysql,nginx,nodejs,ps,php,postman,powershell,pr,py,react,redux,sass,stackoverflow,twitter,unity,vim,visualstudio,vscode,vue,wordpress&perline=10" />
 
 ## ✉ Get in Touch
 
@@ -28,7 +28,7 @@ Here is some of my websites:
 
 You can also get in touch with me in Genshin Impact!
 
-![Genshin Card](https://s2.chriskim.top/genshin/33/288018508.png)
+![Genshin Card](https://www.nahida.cc/genshin/33/288018508.png)
 
 ## 🔑 Public Keys
 
