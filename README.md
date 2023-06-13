@@ -2,7 +2,7 @@
 
 💬 I'm Haotian Zou, you can call me ChrisKim.
 
-> 🎈 An 19 y.o. student who is passionate about programming, technologies, video games, etc.
+> 🎈 An 20 y.o. student who is passionate about programming, technologies, video games, etc.
 
 I'm a student major in Artificial Intelligence in Wuhan University of Technology.
 
