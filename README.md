@@ -10,7 +10,7 @@ I love programming beacause control computers to solve problems by writing code 
 
 ## 📈 GitHub Stats
 
-<img src="https://www.diona.moe/github-stats/api?username=ChrisKimZHT&show_icons=true" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://www.nahida.cc/github/api/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
+<img src="https://www.diona.moe/github-stats/api?username=ChrisKimZHT&show_icons=true" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://www.diona.moe/github-stats/api/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
 
 ## ✍ Know How to Spell
 
