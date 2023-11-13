@@ -10,11 +10,11 @@ I love programming beacause control computers to solve problems by writing code 
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ChrisKimZHT&show_icons=true&bg_color=30,fdfdfd,f6f6f6" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8&bg_color=30,fdfdfd,f6f6f6" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
+<img src="https://ghstats.diona.moe/?username=ChrisKimZHT&show_icons=true&bg_color=30,fdfdfd,f6f6f6" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://ghstats.diona.moe/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8&bg_color=30,fdfdfd,f6f6f6" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
 
 ## ✍ Know How to Spell
 
-<img src="https://www.diona.moe/skill-icons/icons?i=azure,blender,bootstrap,c,cpp,css,docker,electron,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,mysql,nginx,nodejs,ps,php,postman,powershell,pr,py,react,redux,sass,stackoverflow,twitter,unity,vim,visualstudio,vscode,vue,wordpress&perline=10" />
+<img src="https://skicons.diona.moe/icons?i=azure,blender,bootstrap,c,cpp,css,docker,electron,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,mysql,nginx,nodejs,ps,php,postman,powershell,pr,py,react,redux,sass,stackoverflow,twitter,unity,vim,visualstudio,vscode,vue,wordpress&perline=10" />
 
 ## ✉ Get in Touch
 
