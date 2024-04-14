@@ -6,15 +6,15 @@
 
 I'm a student major in Artificial Intelligence in Wuhan University of Technology.
 
-I love programming beacause control computers to solve problems by writing code is so fascinating to me.
+I love programming beacause writing code to solve problems is so fascinating to me.
 
 ## 📈 GitHub Stats
 
-<img src="https://ghstat.lolicon.io/?username=ChrisKimZHT&show_icons=true&bg_color=30,fdfdfd,f6f6f6" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://ghstat.lolicon.io/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8&bg_color=30,fdfdfd,f6f6f6" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
+<img src="https://github-readme-stats.lolicon.io/?username=ChrisKimZHT&show_icons=true&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.lolicon.io/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
 
 ## ✍ Know How to Spell
 
-<img src="https://skicon.lolicon.io/icons?i=azure,blender,bootstrap,c,cpp,css,docker,electron,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,mysql,nginx,nodejs,ps,php,postman,powershell,pr,py,react,redux,sass,stackoverflow,twitter,unity,vim,visualstudio,vscode,vue,wordpress&perline=10" />
+<img src="https://skill-icons.lolicon.io/icons?i=anaconda,azure,bash,blender,bootstrap,c,cpp,clion,cloudflare,cmake,css,debian,docker,electron,express,fastapi,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,matlab,mysql,nginx,nodejs,npm,ps,php,postman,powershell,pr,pycharm,py,pytorch,react,redux,sass,spring,sublime,sklearn,tensorflow,ubuntu,unity,vim,visualstudio,vscode,vue,windows,wordpress&perline=14" />
 
 ## ✉ Get in Touch
 
@@ -25,10 +25,6 @@ You can contact me by the information above. In addition, you can also visit my 
 Here is some of my websites:
 
 [Homepage](https://www.chriskim.cn) / [Blog](https://www.zouht.com/) / [Notes](https://io.zouht.com/)
-
-<!-- You can also get in touch with me in Genshin Impact! -->
-
-<!-- ![Genshin Card](https://www.diona.moe/genshin-card/33/288018508.png) -->
 
 ## 🔑 Public Keys
 
