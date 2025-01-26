@@ -10,11 +10,11 @@ I love programming beacause writing code to solve problems is so fascinating to 
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.lolicon.io/?username=ChrisKimZHT&show_icons=true&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.lolicon.io/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
+<img src="https://github-readme-stats.haotian.dev/?username=ChrisKimZHT&show_icons=true&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.haotian.dev/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
 
 ## ✍ Know How to Spell
 
-<img src="https://skill-icons.lolicon.io/icons?i=anaconda,azure,bash,blender,bootstrap,c,cpp,clion,cloudflare,cmake,css,debian,docker,electron,express,fastapi,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,matlab,mysql,nginx,nodejs,npm,ps,php,postman,powershell,pr,pycharm,py,pytorch,react,redux,sass,spring,sublime,sklearn,tensorflow,ubuntu,unity,vim,visualstudio,vscode,vue,windows,wordpress&perline=14" />
+<img src="https://skill-icons.haotian.dev/icons?i=anaconda,azure,bash,blender,bootstrap,c,cpp,clion,cloudflare,cmake,css,debian,docker,electron,express,fastapi,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,matlab,mysql,nginx,nodejs,npm,ps,php,postman,powershell,pr,pycharm,py,pytorch,react,redux,sass,spring,sublime,sklearn,tensorflow,ubuntu,unity,vim,visualstudio,vscode,vue,windows,wordpress&perline=14" />
 
 ## ✉ Get in Touch
 
