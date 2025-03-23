@@ -10,22 +10,20 @@ I love programming beacause writing code to solve problems is so fascinating to 
 
 ## 📫 Get in Touch
 
-You can contact me by the information below (Chinese/English):
+You can contact me by the information below:
 
 - 📧: chriskim@foxmail.com
 - 🅱: https://space.bilibili.com/23986264
+- ☎️: $\texttt{13???????82} \times 998244353\bmod (10^9+7)=9542577$
+- 🐧: $\texttt{15??????48} \times 998244353\bmod (10^9+7)=17337518$
 
-In addition, you can also visit my websites and leave your comments. Here is some of my websites (Chinese):
+In addition, you can also visit my websites and leave your comments. Here is some of my websites:
 
 [🏠Homepage](https://www.chriskim.cn) / [🌏Blog](https://www.zouht.com/) / [📔Notes](https://io.zouht.com/)
 
 ## 📈 GitHub Stats
 
 <img src="https://github-readme-stats.haotian.dev/?username=ChrisKimZHT&show_icons=true&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.haotian.dev/top-langs?username=ChrisKimZHT&layout=compact&langs_count=8&bg_color=30,fafafa,f0f0f0" alt="ChrisKimZHT's GitHub Top Langs" height="185px" />
-
-## ✍ Know How to Spell
-
-<img src="https://skill-icons.haotian.dev/icons?i=anaconda,azure,bash,blender,bootstrap,c,cpp,clion,cloudflare,cmake,css,debian,docker,electron,express,fastapi,flask,gcp,git,github,html,idea,java,js,jquery,latex,linux,md,matlab,mysql,nginx,nodejs,npm,ps,php,postman,powershell,pr,pycharm,py,pytorch,react,redux,sass,spring,sublime,sklearn,tensorflow,ubuntu,unity,vim,visualstudio,vscode,vue,windows,wordpress&perline=14" />
 
 ## 🔑 Public Keys
 
