@@ -7,9 +7,9 @@ I am a Master's student in Software Engineering at Chongqing University, special
 📫 You can contact me by the information below:
 
 - 📧: chriskim@foxmail.com
-- 🅱: https://space.bilibili.com/23986264
-- ☎️: $\texttt{13???????82} \times 998244353\bmod (10^9+7)=9542577$
-- 🐧: $\texttt{15??????48} \times 998244353\bmod (10^9+7)=17337518$
+- 📺: https://space.bilibili.com/23986264
+- ☎️: $(+86) 13???????82 \times 998244353\bmod (10^9+7)=9542577$
+- 🐧: $15??????48 \times 998244353\bmod (10^9+7)=17337518$
 
 In addition, you can also visit my websites and leave your comments. Here is some of my websites:
 
